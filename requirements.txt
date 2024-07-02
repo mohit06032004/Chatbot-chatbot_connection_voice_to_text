@@ -1,0 +1,8 @@
+assemblyai
+flask
+flask_sqlalchemy
+flask_socketio
+flask_cors
+mysql-connector-python
+mysqlclient
+bcrypt
